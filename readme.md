@@ -26,7 +26,7 @@ the data contains 100 images of football players and their masks.
 - The best model will be saved in your PWD folder
 
 ## Results
-the model was trained for 15 epochs and the results are as follows:\n
-the validation mIoU is 0.7\n
-the validation Pixel Accuracy is 0.73\n
-the validation loss is 0.3
+the model was trained for 15 epochs and the results are as follows:   
+-the validation mIoU is 0.7
+-the validation Pixel Accuracy is 0.73
+-the validation loss is 0.3
