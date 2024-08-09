@@ -1,6 +1,6 @@
 # Football instance segmentation
 
-This is a simple project ,to segement football players from a image using DeepLabV3+, as a part of ASDC company training .
+This is a simple project ,to segement football players from a image using DeepLabV3+, as a part of RASID company training .
 the dataset is from [here](https://www.kaggle.com/datasets/mohammednomer/semantic-segmentation)
 the data contains 100 images of football players and their masks.
 
